@@ -1,0 +1,13 @@
+c:\_download\_perl\C\Studio20142HPT\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\Studio20142HPT.exe
+c:\_download\_perl\C\Studio20142HPT\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\Studio20142HPT.pdb
+c:\_download\_perl\C\Studio20142HPT\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\Studio20142HPT.exe.CodeAnalysisLog.xml
+c:\_download\_perl\C\Studio20142HPT\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\Studio20142HPT.exe.lastcodeanalysissucceeded
+c:\_download\_perl\C\Studio20142HPT\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\Studio20142HPT.csproj.ResolveComReference.cache
+c:\_download\_perl\C\Studio20142HPT\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+c:\_download\_perl\C\Studio20142HPT\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\Studio20142HPT.Properties.Resources.resources
+c:\_download\_perl\C\Studio20142HPT\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\Studio20142HPT.csproj.GenerateResource.Cache
+c:\_download\_perl\C\Studio20142HPT\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\Studio20142HPT.exe
+c:\_download\_perl\C\Studio20142HPT\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\Studio20142HPT.pdb
+c:\_download\_perl\C\Studio20142HPT\Studio20142HPT\Studio20142HPT\obj\x86\Release\Studio20142HPT.csproj.ResolveComReference.cache
+c:\_download\_perl\C\Studio20142HPT\Studio20142HPT\Studio20142HPT\obj\x86\Release\Studio20142HPT.exe
+c:\_download\_perl\C\Studio20142HPT\Studio20142HPT\Studio20142HPT\obj\x86\Release\Studio20142HPT.pdb
